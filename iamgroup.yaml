@@ -1,0 +1,5 @@
+Resources:
+  IAMGROUP:
+    Type: 'AWS::IAM::Group'
+    Properties:
+       GroupName: FirstGroup
